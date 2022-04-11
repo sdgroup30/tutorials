@@ -7,7 +7,7 @@ title: Installing Distill and Sublimate
 
 This section will cover installing Distill and Sublimate through Docker. To complete this section, you must have Docker installed. You can find installation instructions for your OS [here](https://docs.docker.com/get-docker/). For this section, Docker is the only prerequisite. 
 
-**NOTE: It is recommended to run these CLI tools on Linux. If installing on Windows, it is recommended to use Windows Subsystem for Linux (WSL). However, the tools will still run on Windows native**
+**NOTE: It is recommended to run these CLI tools on Linux. If installing on Windows, it is recommended to use Windows Subsystem for Linux (WSL). However, the tools will still run on Windows native.**
 
 ## Installing Distill
 

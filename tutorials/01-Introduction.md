@@ -9,7 +9,7 @@ Distill and Sublimate are two command-line interface (CLI) tools intended as a p
 
 This tutorial aims to give an understanding of how to use the two tools in tandem and how they utilize the Trivium platform. It is broken into three major sections:
 
-1. Getting Started
+1. [Getting Started](02-Getting%20Started/01-%20Trivium%20CLI.md)
     * Distill & Sublimate will be installed and setup, as well as other prerquisites (such as the Trivium CLI)
 2. Using Distill
     * How to use the Distill CLI, including an explanation of user options and output
