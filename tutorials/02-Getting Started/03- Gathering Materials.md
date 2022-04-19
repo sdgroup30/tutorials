@@ -5,9 +5,9 @@ title: Gathering Materials
 
 # Gathering Materials
 
-To complete this tutorial, there a couple files needed. First is the sample Nessus scan, which can be downloaded [here](TODO: ADD LINK).
+To complete this tutorial, there a couple files needed. First is the sample Nessus scan, which can be downloaded [here](../../assets/sample-scan.nessus).
 
-Additionally, a sample Trivium model needs to be created. To do this, import the sample network diagram (which can be downloaded [here](TODO: ADD LINK)) into Trivium.
+Additionally, a sample Trivium model needs to be created. To do this, import the sample network diagram (which can be downloaded [here](../../assets/sample-network-diagram.json)) into Trivium.
 
 After you have downloaded the network diagram, login to your Trivium account. From the Projects page, click "Create Project".
 
