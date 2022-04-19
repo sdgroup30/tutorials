@@ -20,7 +20,9 @@ $ git clone https://github.com/TripleDotEngineering/distill.git
 
 $ cd distill
 
-$ docker compose
+$ ./install.sh
+
+$ source ~/.bashrc
 ```
 
 This will clone the git repository and then create the Docker container. Distill is now installed and ready to be run.
@@ -36,7 +38,9 @@ $ git clone https://github.com/TripleDotEngineering/sublimate.git
 
 $ cd sublimate
 
-$ docker compose
+$ ./install.sh
+
+$ source ~/.bashrc
 ```
 
 Sublimate is now installed.
