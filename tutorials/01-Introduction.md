@@ -11,9 +11,9 @@ This tutorial aims to give an understanding of how to use the two tools in tande
 
 1. [Getting Started](02-Getting%20Started/01-%20Trivium%20CLI.md)
     * Distill & Sublimate will be installed and setup, as well as other prerquisites (such as the Trivium CLI)
-2. Using Distill
+2. [Using Distill](03-Using%20Distill/01-Running%20Distill.md)
     * How to use the Distill CLI, including an explanation of user options and output
-3. Using Sublimate
+3. [Using Sublimate](04-Using%20Sublimate/01-Running%20Sublimate.md)
     * How to use the Sublimate CLI, including an explanation of user options and output
 
 
