@@ -63,13 +63,13 @@ The Trivium API allows for a lot of flexibility in how you access and interact w
 
 The scoring in this project is in an intentionally proof-of-concept form. This type of cybersecurity analysis is a cutting edge field of research, and as such we intended to make this as extensible as possible so that better scoring systems can easily be added. The scoring for each node is as follows:
 
-For each node, $n$, with CVE list, $c$:
+For each node, $n$, with CVE list, $c_n$:
 
 $\quad$ Let $s_n = 0$ 
 
-$\quad$ For each CVE, $v$ in $c$ with CVSS base score, $b_v$, and CVSS temporal score, $t_v$:
+$\quad$ For each CVE, $v_i$ in $c_n$ with CVSS base score, $b_{v_i}$, and CVSS temporal score, $t_{v_i}$:
 
-$\quad\quad s_n = s_n + (b_v \times t_v)$
+$\quad\quad s_n = s_n + (b_{v_i} \times t_{v_i})$
 
 Once we have a list of the $s_n$ for every node $n$, normalize the data value $s_n$ to $s'_n$ using decimal scaling normalization as follows:
 
